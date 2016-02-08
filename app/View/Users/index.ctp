@@ -4,7 +4,7 @@
 <table>
     <tr>
         <th>Id</th>
-        <th>Title</th>
+        <th>Tytuł</th>
         <th>Actions</th>
         <th>Created</th>
     </tr>
