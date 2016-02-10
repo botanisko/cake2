@@ -39,5 +39,5 @@
         </td>
     </tr>
     <?php endforeach; ?>
-
+	<p>Działa git! </p>
 </table>
