@@ -5,8 +5,8 @@
     <tr>
         <th>Id</th>
         <th>Tytuł</th>
-        <th>Actions</th>
-        <th>Created</th>
+        <th>Akcje</th>
+        <th>Utworzone</th>
     </tr>
 
     <?php foreach ($users as $user): ?>
