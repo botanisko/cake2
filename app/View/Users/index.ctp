@@ -1,5 +1,6 @@
 
 <h1>User list</h1>
+<h2>Duży fix robimy  </h2>
 <p><?php echo $this->Html->link('Add User', array('action' => 'add')); ?></p>
 <table>
     <tr>
