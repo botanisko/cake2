@@ -6,7 +6,7 @@
         <th>Id</th>
         <th>Tytuł</th>
         <th>Akcje</th>
-        <th>Utworzone</th>
+        <th>Utworzone data -</th>
     </tr>
 
     <?php foreach ($users as $user): ?>
