@@ -1,4 +1,4 @@
-
+MERGUJEMY!
 <h1>User list</h1>
 <p><?php echo $this->Html->link('Add User', array('action' => 'add')); ?></p>
 <table>

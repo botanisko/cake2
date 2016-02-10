@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # CakePHP
-a teraz po zpullowaniu do testa
+Mały wpis do fix1 i będzie merge do cake2!!
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
 [![License](https://poser.pugx.org/cakephp/cakephp/license.svg)](https://packagist.org/packages/cakephp/cakephp)
 [![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
