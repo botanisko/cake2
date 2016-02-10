@@ -3,10 +3,10 @@
 <p><?php echo $this->Html->link('Add User', array('action' => 'add')); ?></p>
 <table>
     <tr>
-        <th>Id</th>
-        <th>Tytuł</th>
-        <th>Akcje</th>
-        <th>Utworzone</th>
+        <th>Ident</th>
+        <th>Tytuły</th>
+        <th>Akcje?</th>
+        <th>Utworzone w</th>
     </tr>
 
     <?php foreach ($users as $user): ?>
